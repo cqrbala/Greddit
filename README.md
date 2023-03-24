@@ -59,7 +59,7 @@ On clicking a subgreddit that you have joined, it takes you to a page where you 
 - Can report a post
 - Can like/dislike a post
 
-### Saved Posts
+### Saved Posts Page
 
 shows all the posts that have been saved/bookmarked across various subgreddits.
 
